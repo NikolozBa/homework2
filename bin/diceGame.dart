@@ -1,8 +1,6 @@
 import 'dart:io';
 import 'dart:math';
 
-import 'package:diceGame/diceGame.dart' as diceGame;
-
 void main(List<String> arguments) {
 
   final random = Random();
