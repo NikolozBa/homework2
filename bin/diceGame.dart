@@ -67,7 +67,7 @@ void main(List<String> arguments) {
         compScore++;
         print('Current Score is $userScore:$compScore');
       }else{
-        print('i\'ts a tie');
+        print('it\'s a tie');
         print('Current Score is $userScore:$compScore');
       }
 
